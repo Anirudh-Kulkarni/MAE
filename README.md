@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains two MATLAB simulations related to neural dynamics: `MAE_Simulations` and `BinocularRivalryTanh`. These simulations model the behavior of neural populations using differential equations and nonlinear functions. These programs were used to simulates the Motion After Effect (MAE) model that is presented in the paper [Sustained Rhythmic Brain Activity Underlies Visual Motion Perception in Zebrafish](https://www.cell.com/cell-reports/fulltext/S2211-1247(16)31321-3).
+This repository contains two MATLAB simulations related to neural dynamics: `MAE_Simulations` and `BinocularRivalryTanh`. These simulations model the behavior of neural populations using differential equations and nonlinear functions. These programs were used to simulate the Motion After Effect (MAE) model presented in the paper [Sustained Rhythmic Brain Activity Underlies Visual Motion Perception in Zebrafish](https://www.cell.com/cell-reports/fulltext/S2211-1247(16)31321-3).
 
 ## Programs
 
